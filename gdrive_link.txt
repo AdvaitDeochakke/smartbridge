@@ -1,0 +1,6 @@
+https://drive.google.com/drive/folders/1obWXnhcHPoojM6HCYbM3_ct57UFxmPqr?usp=share_link
+
+Are you SURE you want a *link* to a google drive, instead of like, a github repo, or maybe the whole file?
+Don't you think that giving the *link* for each individual assignment is so much more unecessary hassle?
+
+This is the link to the GitHub repo with all dependancies and stuff : https://github.com/AdvaitDeochakke/smartbridge
